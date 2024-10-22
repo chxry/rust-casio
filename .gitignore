@@ -1,0 +1,5 @@
+*.o
+*.rox
+test.bin
+test.g3a
+bindings.rs

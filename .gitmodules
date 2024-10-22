@@ -1,0 +1,3 @@
+[submodule "libfxcg"]
+	path = libfxcg
+	url = https://github.com/Jonimoose/libfxcg
